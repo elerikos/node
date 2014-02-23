@@ -1,0 +1,20 @@
+
+{
+    "appenders": [
+
+        { "type" : "console"},
+
+        {
+            "type": "file",
+            "absolute": true,
+            "filename": "log_file.log",
+            "maxLogSize": 20480,
+            "backups": 10,
+            "category": [ "cheese","console" ]
+
+        }
+
+    ] ,
+    "replaceConsole": true
+
+}

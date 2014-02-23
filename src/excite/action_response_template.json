@@ -1,0 +1,19 @@
+{
+    "msisdn": "306999999999",
+    "userId": 371235,
+    "userStatus": 1,
+    "transactionId": 239472,
+    "totalPoints": 1400,
+    "token": "KD9SDF98SDF79SD",
+    "lastctaresponse": {
+        "lastctaid": 12345,
+        "points": 100,
+        "responseText": "Your answer was correct, keep playing",
+        "responseStatus": 1
+    },
+    "game": {
+        "id": 100,
+        "title": "Start Bonus 50",
+        "description": "This is the description of the game"
+    }
+}

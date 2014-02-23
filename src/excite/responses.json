@@ -1,0 +1,56 @@
+{
+    "1230": {
+        "lastctaid": 12345,
+        "points": 100,
+        "responseText": "Bravo! They both starred in the Godfather, but it was Brando that starred in both. And you have 230 points for tonight's prize. Keep going!",
+        "responseStatus": 1
+    },
+    "1231": {
+        "lastctaid": 12345,
+        "points": 100,
+        "responseText": "Correct! Sochi, situated on the Black sea, is the right answer.You now have XXX points! Keep it up and you'll get closer to the prize.",
+        "responseStatus": 1
+    },
+    "1232": {
+        "lastctaid": 12345,
+        "points": 100,
+        "responseText": "That's right! Argo is in and Cloud Atlas is out!Don't lose focus now. You have XXX points and the winner will be decided in a few hours. Keep playing!",
+        "responseStatus": 1
+    },
+    "1233": {
+        "lastctaid": 12345,
+        "points": 100,
+        "responseText": "Correct! Year of the Horse it is! Don't forget: You could be the lucky winner of tonight's prize. The more points you have, the more chance you get. Go on!",
+        "responseStatus": 1
+    },
+    "1234": {
+        "lastctaid": 12345,
+        "points": 100,
+        "responseText": "That's not correct. Apple topped the corporate charts in 2012, only to lose the position to Exxon in early 2013.You have XXX points.Next question...",
+        "responseStatus": 0
+    },
+    "1235": {
+        "lastctaid": 12345,
+        "points": 100,
+        "responseText": "Superb! Both are famous for their pop music, but Madonna is the one with the kids.You have XXX points playing for tonight's prize. Let's keep it going!",
+        "responseStatus": 1
+    },
+    "1236": {
+        "lastctaid": 12345,
+        "points": 100,
+        "responseText": "Na! Football is what Brazil is famous for, FIFA is what they are hosting. You have XXX points. Ready to see what's next?",
+        "responseStatus": 0
+    },
+    "1237": {
+        "lastctaid": 12345,
+        "points": 100,
+        "responseText": "Yes, they're back, or at least for a little while. The Super bowl is the most watched event in the country. XXX points and counting! Here's the next question.",
+        "responseStatus": 1
+    },
+    "1238": {
+        "lastctaid": 12345,
+        "points": 100,
+        "responseText": "Sorry, but that's the wrong answer! Only a few hours remain until a winner is crowned. Don't stop now. Keep it going",
+        "responseStatus": 0
+    }
+}

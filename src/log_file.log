@@ -1,0 +1,15 @@
+[2013-02-18 17:37:45.329] [ERROR] cheese - Cheese gouda is too ripe!
+[2013-02-18 17:37:45.331] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2013-02-18 17:39:47.398] [ERROR] cheese - Cheese gouda is too ripe!
+[2013-02-18 17:39:47.400] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2013-02-18 17:40:41.602] [ERROR] cheese - Cheese gouda is too ripe!
+[2013-02-18 17:40:41.603] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2013-02-18 17:41:06.356] [ERROR] cheese - Cheese gouda is too ripe!
+[2013-02-18 17:41:06.358] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2013-02-18 17:43:02.703] [ERROR] cheese - Cheese gouda is too ripe!
+[2013-02-18 17:43:02.703] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2013-02-18 17:43:22.832] [ERROR] cheese - Cheese gouda is too ripe!
+[2013-02-18 17:43:22.834] [FATAL] cheese - Cheese was breeding ground for listeria.
+[2013-02-18 17:45:34.490] [ERROR] console - AAArgh! Something went wrong { some: 'otherObject', useful_for: 'debug purposes' }
+[2013-02-18 17:45:34.504] [ERROR] cheese - Cheese gouda is too ripe!
+[2013-02-18 17:45:34.505] [FATAL] cheese - Cheese was breeding ground for listeria.

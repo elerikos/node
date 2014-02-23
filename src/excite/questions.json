@@ -1,0 +1,142 @@
+
+[
+    {
+        "questionId": 1230,
+        "questionText": "Name the Hollywood legend, who starred in the Godfather and the Chase.",
+        "answers": [
+            {
+                "id": 100,
+                "text": "Marlon Brando"
+            },
+            {
+                "id": 101,
+                "text": "Al Pacino"
+            }
+        ]
+    }
+    ,
+
+    {
+        "questionId": 1231,
+        "questionText": "Which former Soviet city is bound to host the Winter Olympics in 2014?",
+        "answers": [
+            {
+                "id": 100,
+                "text": "Sochi"
+            },
+            {
+                "id": 101,
+                "text": "Warsaw"
+            }
+        ]
+    }
+    ,
+
+    {
+        "questionId": 1232,
+        "questionText": "Which of the following box office hits is not a nominee for the 85th Academy Awards?",
+        "answers": [
+            {
+                "id": 100,
+                "text": "Cloud Atlas"
+            },
+            {
+                "id": 101,
+                "text": "Argo"
+            }
+        ]
+    }
+    ,
+
+    {
+        "questionId": 1233,
+        "questionText": "According to the Chinese Zodiac, the year 2014 is the year of:",
+        "answers": [
+            {
+                "id": 100,
+                "text": "Horse"
+            },
+            {
+                "id": 101,
+                "text": "Pig"
+            }
+        ]
+    }
+    ,
+    {
+        "questionId": 1234,
+        "questionText": "In the year 2012, which company officially became the company with the highest market value in the world?",
+        "answers": [
+            {
+                "id": 100,
+                "text": "Apple"
+            },
+            {
+                "id": 101,
+                "text": "Google"
+            }
+        ]
+    }
+    ,
+    {
+        "questionId": 1235,
+        "questionText": "Which American celebrity is well known for her music and foreign baby adoption?",
+        "answers": [
+            {
+                "id": 100,
+                "text": "Madonna"
+            },
+            {
+                "id": 101,
+                "text": "Rihanna"
+            }
+        ]
+    }
+    ,
+    {
+        "questionId": 1236,
+        "questionText": "Number 1 Portuguese speaking country, Brazil, is hosting which major event?",
+        "answers": [
+            {
+                "id": 100,
+                "text": "FIFA 2014"
+            },
+            {
+                "id": 101,
+                "text": "FIBA 2014"
+            }
+        ]
+    }
+    ,
+    {
+        "questionId": 1237,
+        "questionText": "Which famous girl group performed at the Super Bowl XLVII?",
+        "answers": [
+            {
+                "id": 100,
+                "text": "Destiny's Child"
+            },
+            {
+                "id": 101,
+                "text": "Girl's Aloud"
+            }
+        ]
+    }
+    ,
+    {
+        "questionId": 1238,
+        "questionText": "Which of the following countries has Italian as their official language, since 2007? ",
+        "answers": [
+            {
+                "id": 100,
+                "text": "Italy"
+            },
+            {
+                "id": 101,
+                "text": "North Korea"
+            }
+        ]
+    }
+]
+
+
